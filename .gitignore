@@ -1,0 +1,6 @@
+# --- ignore this folders ---
+
+resources/
+results/
+YOLO/
+yolo_dataset/
